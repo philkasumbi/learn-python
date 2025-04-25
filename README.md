@@ -1,5 +1,5 @@
 # learn-python
-i just started learning python,
+i just started learning python,i am very excited to start this journey, soo to start,
 i did calculator mini app,
 learned expressions and operations,
 learned decision making conditions i.e if else match case and nested conditions,
