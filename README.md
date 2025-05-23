@@ -7,3 +7,11 @@ created a movie ticket checker using the decision making conditions, i learned l
 took some break anad now im back 
 learned how to read and write `.txt`, `.csv`, and `.json` files in Python.
 
+I learned how to create classes and objects in Python, including:
+
+- Defining classes and methods  
+- Using constructors (`__init__`) and magic methods (`__str__`)  
+- Creating objects and calling their methods  
+- Basic inheritance to reuse code
+
+Examples include `Car`, `Dog`, `Book`, and `Animal` classes.
