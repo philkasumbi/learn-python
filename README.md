@@ -15,3 +15,16 @@ I learned how to create classes and objects in Python, including:
 - Basic inheritance to reuse code
 
 Examples include `Car`, `Dog`, `Book`, and `Animal` classes.
+
+task;
+I created a Student class that can:
+
+Store a student's name and age
+
+Keep track of their grades
+
+Calculate their average grade
+
+Print a clean summary using a special method
+
+
