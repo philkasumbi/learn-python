@@ -31,3 +31,7 @@ Print a clean summary using a special method
 did some exercise task on OOP, i.e simulation of bank operations, inheritance task 
 
 
+I did webscrapping for the first time,
+this shows scrapping the books.scrape.com website where you get to scrape the title,price,availability and rating of the book and then i stored the result in a csv file
+
+
