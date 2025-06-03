@@ -36,3 +36,7 @@ this shows scrapping the books.scrape.com website where you get to scrape the ti
 
 
 Turns out, there are 50 pages of books on that site... and I wasn’t going to copy-paste my code 50 times 😅. So, I learned about pagination and how to make my scraper automatically go through all the pages.-(pagination scrapping file)
+
+
+I did webscrapping for the second time,
+this shows scrapping the quotes.toscrape.com website where you get to scrape the quote,author and tags of the book and then i stored the result in a csv file -(webscrapping task2 file)
