@@ -25,13 +25,14 @@ Keep track of their grades
 
 Calculate their average grade
 
-Print a clean summary using a special method
+Print a clean summary using a special method--(student record mini app file)
 
 
 did some exercise task on OOP, i.e simulation of bank operations, inheritance task 
 
 
 I did webscrapping for the first time,
-this shows scrapping the books.scrape.com website where you get to scrape the title,price,availability and rating of the book and then i stored the result in a csv file
+this shows scrapping the books.scrape.com website where you get to scrape the title,price,availability and rating of the book and then i stored the result in a csv file -(scrapping2 file)
 
 
+Turns out, there are 50 pages of books on that site... and I wasn’t going to copy-paste my code 50 times 😅. So, I learned about pagination and how to make my scraper automatically go through all the pages.-(pagination scrapping file)
