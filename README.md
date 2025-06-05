@@ -40,3 +40,16 @@ Turns out, there are 50 pages of books on that site... and I wasn’t going to c
 
 I did webscrapping for the second time,
 this shows scrapping the quotes.toscrape.com website where you get to scrape the quote,author and tags of the book and then i stored the result in a csv file -(webscrapping task2 file)
+
+
+This commit introduces a simple Python-based personal assistant that interacts through the terminal. Key features include:
+- Greets user by name and remembers it between sessions (stored in `username.txt`)
+- Tells the current time and date using the `datetime` module
+- Evaluates basic math expressions via `eval()`
+- Stores and recalls personalized information (e.g., "remember my favorite color is blue")
+- Persists memory in a JSON file (`memory.txt`)
+- Logs all user interactions in a `chat_log.txt` file
+- Gracefully ends the session on 'bye' command
+
+This script is a beginner-friendly project for learning Python file I/O, string handling, and simple conversational flow.(agent2 file)
+
