@@ -1,0 +1,70 @@
+You: hello
+Assistant: Hey! How can i help?
+You: time
+Assistant: The current time is 12:18 AM
+You: date
+Assistant: Today is June 05, 2025
+You: hello
+Assistant: Hey!philip How can i help?
+You: hey
+Assistant: Hey!mark How can i help?
+You: what is the time
+Assistant: The current time is 12:27 AM
+You: date
+Assistant: Today is June 05, 2025
+You: hello
+Assistant: Hey!philip How can i help?
+You: time
+Assistant: The current time is 12:36 AM
+You: date
+Assistant: Today is June 05, 2025
+You: hey
+Assistant: Hey!philip How can i help?
+You: hey
+Assistant: Hey!philip How can i help?
+You: hello
+Assistant: Hey!philip How can i help?
+You: date
+Assistant: Today is June 05, 2025
+You: tell me the time
+Assistant: The current time is 07:58 AM
+You: hallos
+
+You: hello
+Assistant: Hey!philip How can i help?
+You: time
+Assistant: The current time is 08:00 AM
+You: date
+Assistant: Today is June 05, 2025
+You: hellos
+Assistant: i'm not sure what to reply yet
+You: hi
+Assistant: Hey!philip How can i help?
+You: date
+Assistant: Today is June 05, 2025
+You: time
+Assistant: The current time is 08:01 AM
+You: rembmber my favourite fruit is mango
+Assistant: i'm not sure what to reply yet
+You: hello
+Assistant: Hey! philip, how can I help?
+You: remember my favourite food is pizza
+Okay, I'll remember that your favourite food is pizza.
+You: what's my favourite food
+Your favourite food is pizza.
+You: remember my favourite fruit is mango
+Okay, I'll remember that your favourite fruit is mango.
+You: whats my favourite fruit
+Assistant: I'm not sure what to reply yet.
+You: what's my favourite fruit
+Your favourite fruit is mango.
+You: date
+Assistant: Today is June 05, 2025
+You: time
+Assistant: The current time is 08:37 AM
+You: hello
+Assistant: Hey! philip, how can I help?
+You: date
+Assistant: Today is June 05, 2025
+You: time
+Assistant: The current time is 08:09 PM
