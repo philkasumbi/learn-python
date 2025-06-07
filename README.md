@@ -53,3 +53,6 @@ This commit introduces a simple Python-based personal assistant that interacts t
 
 This script is a beginner-friendly project for learning Python file I/O, string handling, and simple conversational flow.(agent2 file)
 
+
+This project showcases the core concepts of singly linked lists in Python. It includes two key operations: traversing a linked list from head to tail, and reversing the list to change the order of its elements. The code is clean, beginner-friendly, and a helpful resource for understanding how pointers work in dynamic data structures.(linked list folder)
+
